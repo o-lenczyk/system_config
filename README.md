@@ -6,3 +6,4 @@ tmux ~/.tmux.conf
 aliases ~/.bashrc  
 vim colors /usr/share/vim/vimXX/colors  
 vim config ~/.vimrc
+fish config ~/.config/fish/*
